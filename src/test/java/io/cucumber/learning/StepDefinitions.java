@@ -8,7 +8,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.Date;
 
-import static java.util.Arrays.asList;
 import static org.junit.Assert.assertEquals;
 
 public class StepDefinitions {
